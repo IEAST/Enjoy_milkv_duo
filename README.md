@@ -19,3 +19,5 @@
 ## 备注
 
 1. 在课程 01 RVOS on Duo 中使用的 rvos 的版本 commit 为 [c0e6ce1](https://github.com/plctlab/riscv-operating-system-mooc/commit/c0e6ce15f01c6aaf5d5765021c0be8935de0a762)。
+
+2. 在课程 02 RT-Thread on Duo 中使用的 rtt 的版本 commit 为 [ac2f7f0](https://github.com/RT-Thread/rt-thread/tree/ac2f7f05bfa91a2ab4ceded8678a4391d2223953)。
